@@ -1,4 +1,5 @@
 """Implement a class used to communicate with dbs."""
+
 import logging
 
 import pandas as pd
